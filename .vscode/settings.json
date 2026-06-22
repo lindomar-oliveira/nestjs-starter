@@ -1,0 +1,7 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "js/ts.preferences.importModuleSpecifier": "non-relative",
+  "js/ts.tsdk.path": "node_modules/typescript/lib"
+}
